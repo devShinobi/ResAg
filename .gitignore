@@ -1,0 +1,8 @@
+.env
+*.db
+*.log
+papers_export.json
+.pytest_cache/
+tests/__pycache__/
+resag/__pycache__/
+__pycache__/

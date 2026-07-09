@@ -1,0 +1,8 @@
+[project]
+name = "resag"
+version = "0.1.1"
+description = "A lightweight research agent for discovering scholarly papers"
+requires-python = ">=3.10"
+
+[project.scripts]
+resag = "resag.cli:main"
